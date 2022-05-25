@@ -4,6 +4,8 @@ RENCANA KP AJUANDA:
   - frontend atau backend
 - explore materi sebanyak mungkin
 - lakukan yang terbaik
+
 - belajar struktur data dan algoritma
 - belajar python
 - belajar javascript framework
+
