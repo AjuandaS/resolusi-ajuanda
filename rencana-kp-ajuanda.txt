@@ -6,3 +6,4 @@ RENCANA KP AJUANDA:
 - lakukan yang terbaik
 - belajar struktur data dan algoritma
 - belajar python
+- belajar javascript framework
